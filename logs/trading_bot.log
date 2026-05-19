@@ -1,0 +1,20 @@
+2026-05-19 10:52:59,059 - INFO - Order Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-05-19 10:52:59,589 - ERROR - Order Error: APIError(code=-2014): API-key format invalid.
+2026-05-19 10:54:44,088 - INFO - Order Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-05-19 10:54:44,090 - ERROR - Order Error: API Secret required for private endpoints
+2026-05-19 11:00:51,277 - INFO - Order Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-05-19 11:00:51,839 - ERROR - Order Error: APIError(code=-2014): API-key format invalid.
+2026-05-19 11:03:41,748 - INFO - Order Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-05-19 11:03:42,046 - ERROR - Order Error: APIError(code=-2014): API-key format invalid.
+2026-05-19 11:36:08,612 - INFO - Order Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-05-19 11:36:09,598 - ERROR - Order Error: APIError(code=-2014): API-key format invalid.
+2026-05-19 11:43:28,392 - INFO - Order Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-05-19 11:43:28,392 - ERROR - Order Error: API Secret required for private endpoints
+2026-05-19 15:51:22,355 - INFO - Order Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-05-19 15:51:25,074 - ERROR - Order Error: APIError(code=-2014): API-key format invalid.
+2026-05-19 16:17:39,911 - INFO - Order Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-05-19 16:17:40,894 - ERROR - Order Error: APIError(code=-1021): Timestamp for this request is outside of the recvWindow.
+2026-05-19 16:23:03,571 - INFO - Order Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-05-19 16:23:04,715 - INFO - Order Response: {'orderId': 13161986271, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ546e11afa203829fc9c706', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1779188459433}
+2026-05-19 16:32:55,704 - INFO - Order Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-05-19 16:32:56,286 - INFO - Order Response: {'orderId': 13162032617, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ3fd8a99aae39560075cd29', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1779189050995}
